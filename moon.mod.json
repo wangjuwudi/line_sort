@@ -1,10 +1,10 @@
 {
-  "name": "username/hello",
+  "name": "wangjuwudi/line_sort",
   "version": "0.1.0",
   "readme": "README.md",
-  "repository": "",
+  "repository": "https://github.com/wangjuwudi/line_sort",
   "license": "Apache-2.0",
-  "keywords": [],
-  "description": "",
+  "keywords": ["sort","low time complexity"],
+  "description": "some functions about line sort",
   "source": "src"
 }
